@@ -1,0 +1,17 @@
+# Calculo de Areas:
+Desarrollo: 
+ Instrucción:  
+Realiza el análisis para una aplicación que pretende realizar el cálculo de las áreas que muestra la imagen. Define clases y métodos necesarios que creas oportunos. 
+Para realizar una aplicación primero necesitamos saber que función queremos que tenga, en este caso queremos que la aplicación realice el calculo de las áreas de ciertas figuras.  
+ Requisitos: 
+•	Pedir las figuras a calcular. 
+•	Saber la cantidad de figuras. 
+•	Reconocer las figuras que deseamos resolver. 
+•	Saber diferenciar que tipo de figuras son y sus características. 
+•	Datos en común: A (área). 
+•	Verificar los datos que tenemos de cada figura. 
+•	Según los datos que tenemos, ver que pasos debemos seguir para llegar al resultado. 
+•	Calcular el área mediante el método de calculo 
+•	Para calcular el área de algunas figuras se utilizan las fórmulas que aparecen dentro del dibujo de abajo. 
+•	En cada caso, debe reemplazarse los valores conocidos en los problemas expuestos y calcular los valores pedidos. 
+  
